@@ -39,7 +39,7 @@
 
 | Project                            | Tech Stack                   | Description |
 |------------------------------------|-------------------------------|-------------|
-| 🏠 [Hostel Management System](#)   | MERN + MySQL                  | Hostel discovery, image uploads, admin control |
+| 🏠 [Hostel Management System](hostelhub.balajimore.info)   | MERN + MySQL                  | Hostel discovery, image uploads, admin control |
 | 📅 Social Event Manager            | React + Node.js + MySQL       | College event planning with user auth & management |
 | 🔐 Password Vault (Java)           | Java Swing + File Encryption  | Desktop app for storing secure passwords |
 
@@ -59,8 +59,8 @@
 
 ### 📜 Certifications & Internships
 
-- 🧠 **AWS Cloud Virtual Internship** – Eduskills
 - 📊 **Data Analytics with Python** – NPTEL
+- 📊 **Cloud Computing** – NPTEL
 - 💻 **MERN Stack Web Dev** – TechSaksham
 - 📈 **Power BI & Tableau** – Eduskills
 - 🌐 **Cisco CCNA (Basics)**
@@ -70,8 +70,8 @@
 ### 📫 Contact Me
 
 - 🌐 Portfolio: [balajimore.info](https://balajimore.info)
-- 📧 Email: balaji.more@mitaoe.ac.in
-- 💼 LinkedIn: [linkedin.com/in/balaji-more-56a9bb297](https://linkedin.com/in/balaji-more-56a9bb297)
+- 📧 Email: balajimore9193@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/Balaji-More](https://linkedin.com/in/Balaji-More)
 - 📱 +91-9561152287
 
 ---
@@ -79,3 +79,21 @@
 <p align="center">
   🚀 “Code. Contribute. Create. Connect.” 🚀
 </p>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
